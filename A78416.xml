@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Caveate for sherriffs: or, a whip for corrupt officers. Whether baliffs of franchises, or liberties, bumms, bumms fellows, bumm setters, setters mates, scumms and varlots. Discovering their unjust exactions, and cruell oppressions of the people; and the good provision made by the law (now in force) to curb their exorbitancy, and the forfeitures and dammages from them that do contrary. With proposalls to prevent this horrid charge and exaction for the time to come, which may be done with great safety and ease to the people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78416</idno>
+            <idno type="STC">Wing C1613</idno>
+            <idno type="STC">Thomason E830_24</idno>
+            <idno type="STC">ESTC R207454</idno>
+            <idno type="EEBO-CITATION">99866504</idno>
+            <idno type="PROQUEST">99866504</idno>
+            <idno type="VID">168088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168088)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E830[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Caveate for sherriffs: or, a whip for corrupt officers. Whether baliffs of franchises, or liberties, bumms, bumms fellows, bumm setters, setters mates, scumms and varlots. Discovering their unjust exactions, and cruell oppressions of the people; and the good provision made by the law (now in force) to curb their exorbitancy, and the forfeitures and dammages from them that do contrary. With proposalls to prevent this horrid charge and exaction for the time to come, which may be done with great safety and ease to the people.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year of our Lord, 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 26.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political corruption --  England --  Early works to 1800.</term>
+               <term>Police corruption --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168088:1" rendition="simple:additions"/>
+            <p>A CAVEATE FOR SHERRIFFS: OR, A Whip for corrupt <hi>Officers.</hi>
+            </p>
+            <p>Whether BAILIFFS of FRANCHISES, or <hi>Liberties, Bumms, Bumms Fellows, Bumm Setters, Setters Mates, Scumms and Varlotts.</hi>
+            </p>
+            <p>Diſcovering Their unjuſt Exactions, and cruell Oppreſſions of the People; And the good Proviſion made by the Law (now in force) to curb their Exorbitancy, and the <hi>Forfeitures</hi> and <hi>Dammages</hi> from them that do contrary.</p>
+            <p>With PROPOSALLS to prevent this horrid Charge and Exaction for the time to come, which may be done with great ſafety and eaſe to the People.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year of our Lord, 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168088:2"/>
+            <pb n="3" facs="tcp:168088:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> A <hi>CAVEATE for</hi> Sheriffs, <hi>or a Whip for corrupt OFFICERS.</hi>
+            </head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">W</seg>Hat cruell Exactions, and heavie Oppreſſi<g ref="char:EOLhyphen"/>ons the good People of <hi>England</hi> have ſu<g ref="char:EOLhyphen"/>ſtained by corrupt Officers and other Varlotts, by forcing from them unjuſt ſumms, as alſo by uncivill uſage of their Perſons, and abufing their Goods, With<g ref="char:EOLhyphen"/>out all doubt, there are few or none but are ſenfible here<g ref="char:EOLhyphen"/>of; and many by ſad Experience have felt the ſame, to the utter ruine both of them and their Families, many Peo<g ref="char:EOLhyphen"/>ple ſo wronged, being ignorant of the Lawes and Sta<g ref="char:EOLhyphen"/>tutes made to curb their Inſolence and Oppreſſion, ſuffer meerly for want of knowledge thereof; Therefore for the better <hi>Diſcovery</hi> of the unjuſt and cruell oppreſſions of theſe Vermine, and for giving ſome light to the abuſed People, as well as for prevention of theſe <hi>groaning Evills,</hi> it will be very requiſite to inſert here what good and wholſom Laws are now in force againſt theſe Catterpil<g ref="char:EOLhyphen"/>lars, and what <hi>Dammages</hi> are given to the Party grieved for evey offince committed contrary to the Law.</p>
+               <div type="section">
+                  <p>In the 29th Year of Queen <hi>Elizabeth,</hi> amongſt other Laws, it was Enacted.</p>
+                  <q>THat it ſhall not be lawfull for any Sheriffe, Bayliffe of any Franchiſe or Liberty, nor for any of their Min<gap reason="illegible" resp="#MURP" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>rs, <hi>Ser<g ref="char:EOLhyphen"/>vants</hi> or Deputies, nor for any of them, by reaſon or colour of
+<pb n="4" facs="tcp:168088:3"/>their or any of their Places or Imployments, to receive or take of any Perſon or Perſons whatſoever, DIRECTLY or INDI<g ref="char:EOLhyphen"/>RECTLY for the ſerving and executing any Extent or Exe<g ref="char:EOLhyphen"/>cution upon the Body, Lands, Goods and Chattells of any Perſon or Perſons whatſoever, more or other Conſideration or recom<g ref="char:EOLhyphen"/>pence then <hi>xii. d.</hi> of and for every <hi>xx. s.</hi> where the Sum exceeds not <hi>100. l.</hi> and <hi>vi. d.</hi> of and for every <hi>xx. s.</hi> being over and a<g ref="char:EOLhyphen"/>bove the Sum of a <hi>100. l.</hi> that ſha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo levied and Extended, or delivered in Execution, or by takeing the body in Execution for, by vertue and force of any Extent or Execution whatſoever, <g ref="char:V">Ʋ</g>pon paine and penalty, That for every Perſon aforeſaid, or any of their Deputies or Servants, as aforeſaid, or any of them, that ſhall do contrary, to looſe and forfeit to the party grieved trebble Dammages, and forfeit the Sum of <hi>40. l.</hi> for every time they or any of them ſo offend, the one Moity is to His Highneſs the Lord <hi>Protector,</hi> and the other Moity to him that will ſue for the ſame by Action, Bill or Information; wherein no Eſſoine, wager of Law, or Protection ſhall be allowed.</q>
+               </div>
+               <div type="section">
+                  <head>In the 23 Year of <hi>Henry</hi> the <hi>Sixt,</hi> and the tenth <hi>CHAPTER.</hi>
+                  </head>
+                  <q>
+                     <p>IT was alſo provided for prevention of Extortion, Oppreſſion and other Crymes notorious, by <hi>Sheriffs, Underſheriffs,</hi> and their Clerks. <hi>Coroners,</hi> Stewards of Franchiſees, Bailiffs, and Keepers of Priſons, and other Officers in ſeverall Counties;</p>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>That no Sheriffe take for any Arreſt or Attachment, above</cell>
+                              <cell>xx. d.</cell>
+                           </row>
+                           <row>
+                              <cell>The Bailiffe that maketh the Arreſt, to take but</cell>
+                              <cell>iiii. d.</cell>
+                           </row>
+                           <row>
+                              <cell>The Goaler, if the Priſoner be committed to his Ward,</cell>
+                              <cell>iiii. d.</cell>
+                           </row>
+                           <row>
+                              <cell>The Bayl Bond upon the Arreſt</cell>
+                              <cell>iiii. d.</cell>
+                           </row>
+                        </table>
+                     </p>
+                     <pb n="5" facs="tcp:168088:3"/>
+                     <p>And if any Sherriff, <g ref="char:V">Ʋ</g>nderſheriff, Clerke, Bailiffe, Goaler, Coroner, Steward, Bayliffe of Franchiſe <hi>or</hi> LIBERTY, or any other Officer or Miniſter, which ſhall do contrary to the ſame, ſhall looſe to the Party in this behalf grieved, trebble Damma<g ref="char:EOLhyphen"/>ges, and ſhall forfeit the Sum of <hi>40. l.</hi> for every time they, or and of them ſhall ſo offend; The one Moity is to His Highneſs the Lord <hi>Protector,</hi> and the other Moity to him that will ſue for the ſame.</p>
+                  </q>
+               </div>
+            </div>
+            <div type="part">
+               <p>HEre you ſee what limmits former Ages have put, to reſtrain theſe Officers from Exaction; now if any Perſon (as I think few or none but have been bitten by theſe Serpents) will ſeek after a <hi>Cure</hi> for his wound, the Law is his beſt Phifition.</p>
+            </div>
+            <div type="part">
+               <head>But though the prevention of this horrid Charge and Exaction may ſeem very difficult; Yet this may be offered by way of Caution.</head>
+               <p>IF any Man borrow money, or buy any Merchandize or other Co<g ref="char:cmbAbbrStroke">̄</g>modities whatſoever upon ſpecialty, when he ſealeth, or upon Contract, when he ſo Contracts, to leave with the Party to whom he is ingaged, a Warrant to ſome Attorney to appear for him in any of the Courts at <hi>Weſtminſter,</hi> where ſuch Plainte may propperly lie, in caſe of <hi>Failer,</hi> which Warrant to be Irrevocable, and the Attorney to whom ſuch Warrant is granted, not to re<g ref="char:EOLhyphen"/>fuſe the ſame, but to file his Bayle in the Terme he is re<g ref="char:EOLhyphen"/>quired, after the time limmitted to the Party for Pay<g ref="char:EOLhyphen"/>ment or performance, and to take a Declaration with an Imparlance, the Plaintiffe or Defendant paying unto him the due Fees for the ſame.</p>
+               <pb n="6" facs="tcp:168088:4"/>
+               <p>That in Caſe the Plaintiffe in all ſuch Caſes, or in any other Caſe whatſoever, where Bayle is requirable, ſhall doubt of the parties payment or performance, after this milde way, and will have Bayle to his plainte, It is offered that the Plaintiffe would be ſo Chriſtian like, be<g ref="char:EOLhyphen"/>fore the day of payment or performance of whatſoever it may be; to admoniſh the party to keep his time, or pro<g ref="char:EOLhyphen"/>vide reaſonable Bayle.</p>
+               <p>This Chriſtian Courſe would keep Goals empty, and make the Varlotts return to their Vomitts, and not to bury men alive as they now doe, and ſwim to the chin in the ruine of whole Families.</p>
+               <p>This way will make People buy and deale ſafe in re<g ref="char:EOLhyphen"/>ſpect the Law looks upon them the firſt day of their com<g ref="char:EOLhyphen"/>merce and Ingagement.</p>
+               <div type="section">
+                  <div type="subsection">
+                     <head>The Warrant of Appearance to be thus.</head>
+                     <p>To <hi>A. B.</hi> Gent. one of the Attorneys of the <hi>
+                           <g ref="char:V">Ʋ</g>PPER BENCH.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <head>If in the Common Pleas, Then thus.</head>
+                     <p>To <hi>A. B.</hi> Gent, one of the Attorneys of the Court of <hi>Common Pleas.</hi>
+                     </p>
+                  </div>
+                  <div type="subsection">
+                     <p>WHereas <hi>J. M. C.</hi> of <hi>D.</hi> in the County of <hi>N.</hi> give him his Adition am Bound unto <hi>R. F.</hi> of <hi>O.</hi> in the County of L give him his Adition, in o<gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Bond or Writing obligatory, of the penalty of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Conditioned to pay the Sum <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> of lawfu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Engliſh Money at or upon the <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> day of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> next enſuing the Date of theſe Preſents.
+<pb n="7" facs="tcp:168088:4" rendition="simple:additions"/>If therefore I the ſaid <hi>M. C.</hi> ſhall faile in payment thereof at the time aforeſaid, Then upon ſight hereof you are hereby Authoriſed to appear for me, in the ſaid Court as my lawfull Attrney, and to take a Declaration, with an Imparlance of the ſaid <hi>R.F.</hi> At<g ref="char:EOLhyphen"/>torney the next Term following the ſaid <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> day of <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> Or in any other Terme following, if you ſhall be there<g ref="char:EOLhyphen"/>unto required. And for your ſo doing, this ſhall be unto you a ſufficient Warrant; and what Fees ſhall be due to you for the ſame, I will pay you, or allow the ſame to <hi>R. F.</hi> if he ſhall pay the ſame.</p>
+                     <closer>
+                        <dateline>Witneſs my hand and ſeal <date>this <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> day of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> 1654.</date>
+                        </dateline>
+                        <dateline>Sealed and delivered to the uſe of <hi>A. B.</hi> In the preſence of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                        </dateline>
+                     </closer>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <p>And ſo for all other Warrants of Appearance, accor<g ref="char:EOLhyphen"/>ding to the quallity of the thing done between party and party, which may be very eaſily recited.</p>
+               <p>This is a ſure way that the Plaintiffe may proceed when he pleaſe, let the Defendant be where he will.</p>
+               <p>This is a great eaſe to the Defendants, in all firſt Pro<g ref="char:EOLhyphen"/>ces, and ſometimes to the Plaintiffs, for it ſo falls out ſometimes, that they looſe the thing ſued for.</p>
+               <p>And if no neceſſity of Bayle in the Caſe, then an Ap<g ref="char:EOLhyphen"/>pearance is ſure.</p>
+               <p>This will prevent Utlawryes <hi>ad reſpondendum.</hi>
+               </p>
+               <p>The Charges of Arreſts are infinite great, Oppreſſive and delitory many times to the loſſe of the thing ſued for, to<g ref="char:EOLhyphen"/>gether with the Charges of ſute.</p>
+               <p>This Warrant may lie Dormant at the Plaintiffs plea<g ref="char:EOLhyphen"/>ſure, and to be in force in any Terme; the Parties being living; which will be of very great uſe, and induce much to payment or ſatisfaction, at the Caſe ſhall require.</p>
+               <pb n="8" facs="tcp:168088:5"/>
+               <p>For he that will not give an Appearance in this na<g ref="char:EOLhyphen"/>ture, or Bayle upon notice, as is before expreſſed, if re<g ref="char:EOLhyphen"/>quired, cannot expect any thing of favour from his freind to whom the Demand belongeth.</p>
+               <p>This way will probably ſecure mens Rights &amp; Dues, and preſerve many an idle Perſon out of the Jawes of the Goalor, who would (if not ſo neer the Goal) be care<g ref="char:EOLhyphen"/>leſs, and run away from it; the ſooner to fall into it, be<g ref="char:EOLhyphen"/>ing negligent of payment, becauſe not in preſent danger of proſecution.</p>
+               <p>It's true, Creditors ought to be paid, and it is as true, Debters onght to pay; But you know the old Proverbe, <hi>Where nothing is to be had, the Chief muſt looſe his Right.</hi>
+               </p>
+               <p>
+                  <hi>Can a Man make Brick without Straw? Can a man pay before he hath it?</hi>
+               </p>
+               <p>
+                  <hi>Put not your Christian Brother upon Impoſſibilities.</hi>
+               </p>
+               <p>
+                  <hi>Meaſure as you would have meaſured unto you;</hi> This is the whole Sum of the Law.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
